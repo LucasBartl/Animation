@@ -31,7 +31,9 @@
 html, button {
     font: 500 1rem/15 var(--ff-montserrat);
 }
-
+html{
+    zoom: .5;
+}
 h1, h2 {
     font-family:var(--ff-syne)  ;
 }
